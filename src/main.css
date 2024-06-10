@@ -1,0 +1,55 @@
+body {
+    background: #9CC5A1;
+    margin: 0;
+    padding: 0;
+}
+
+.righteous-regular {
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.block-main {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 24px;
+    margin: 30px;
+}
+
+.block-child-flex {
+
+}
+
+.btn {
+    width: 20vh;
+    height: 5vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    background: #216869;
+}
+
+.btn:hover {
+    background: #4BADAE;
+    cursor: pointer;
+}
+
+.elem {
+    width: 150vh;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  
